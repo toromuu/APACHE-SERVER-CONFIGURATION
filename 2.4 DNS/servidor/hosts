@@ -1,0 +1,10 @@
+127.0.0.1	localhost
+127.0.1.1	server
+#192.168.56.102	www.sstt2188.org
+#192.168.56.102	smtp.sstt2188.org	sstt2188.org
+#192.168.56.102	pop.sstt2188.org	sstt2188.org
+
+# The following lines are desirable for IPv6 capable hosts
+::1     localhost ip6-localhost ip6-loopback
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
